@@ -9,6 +9,8 @@ public class Commnts {
 		// starts with /* & End with */  -- Multi line comments
 		
 		 //starts with /** & End with */  -- Api comments
+		// all lines comments
+		
 		
 
 
